@@ -1,0 +1,15 @@
+{
+  "name": "MMM-BayerAgrarWetter",
+  "version": "1.0.0",
+  "description": "MagicMirror module to display BayerAgrarWetter weather data.",
+  "author": "Bog",
+  "license": "GPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bogenpirat/MMM-BayerAgrarWetter.git"
+  },
+  "main": "MMM-BayerAgrarWetter.js",
+  "dependencies": {
+    "request-promise": "^4.2.6"
+  }
+}
